@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Svepser/static/css/main.e6c13ad2.css",
-    "main.js": "/Svepser/static/js/main.42bdf40f.js",
+    "main.js": "/Svepser/static/js/main.ec01292a.js",
     "index.html": "/Svepser/index.html",
     "main.e6c13ad2.css.map": "/Svepser/static/css/main.e6c13ad2.css.map",
-    "main.42bdf40f.js.map": "/Svepser/static/js/main.42bdf40f.js.map"
+    "main.ec01292a.js.map": "/Svepser/static/js/main.ec01292a.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.42bdf40f.js"
+    "static/js/main.ec01292a.js"
   ]
 }
