@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Svepser/static/css/main.d299820f.css",
-    "main.js": "/Svepser/static/js/main.702d8788.js",
+    "main.js": "/Svepser/static/js/main.db648199.js",
     "static/media/roboto-latin-400-normal.woff2": "/Svepser/static/media/roboto-latin-400-normal.df1be0be92f6f19b8115.woff2",
     "static/media/roboto-latin-400-normal.woff": "/Svepser/static/media/roboto-latin-400-normal.50a0a61e29c19a2f05cb.woff",
     "static/media/roboto-math-400-normal.woff2": "/Svepser/static/media/roboto-math-400-normal.b60d9fba1e21da7497e6.woff2",
@@ -22,10 +22,10 @@
     "static/media/roboto-greek-ext-400-normal.woff": "/Svepser/static/media/roboto-greek-ext-400-normal.a0baf7d6726d8f751a27.woff",
     "index.html": "/Svepser/index.html",
     "main.d299820f.css.map": "/Svepser/static/css/main.d299820f.css.map",
-    "main.702d8788.js.map": "/Svepser/static/js/main.702d8788.js.map"
+    "main.db648199.js.map": "/Svepser/static/js/main.db648199.js.map"
   },
   "entrypoints": [
     "static/css/main.d299820f.css",
-    "static/js/main.702d8788.js"
+    "static/js/main.db648199.js"
   ]
 }
